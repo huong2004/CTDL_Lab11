@@ -1,4 +1,4 @@
-package ex11;
+package lab11;
 
 import java.util.ArrayList;
 import java.util.Collections;
